@@ -1,15 +1,20 @@
 body {
     background-color: teal;
+    align-items: center;
+    align-content: center;
 }
 
 h1 {
     color: red;
+    font-size: 32em;
 }
 
 p {
     color: tomato;
+    font-size: 24em;
 }
 
 .p2 {
     color: violet;
+    font-size: 16em;
 }
